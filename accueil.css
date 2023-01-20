@@ -4,14 +4,16 @@ body{
     border: 10px solid;
     font-size: 25px;
     border-radius: 0px;
-    background-color: darkorange;
+    background-color: rgb(0, 140, 247);
 }
 .banniere {
     padding: 150px; 
-    background-image:"vague.JPG";
-    background-size:cover;
+    background-image: url("/Image/vague.JPG");
+    background-size:auto;
     margin: 0px;
     text-align: center;
+    width: 1585px;
+    height: 500px;
 }
 .elem1{
     color: red;
