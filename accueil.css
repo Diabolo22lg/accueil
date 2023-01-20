@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    border-color: black;
+    border: 10px solid;
+    font-size: 25px;
+    border-radius: 0px;
+    background-color: darkorange;
+}
+.banniere {
+    padding: 150px; 
+    background-color: rgb(185, 33, 255);
+    background-size:cover;
+    margin: 0px;
+    text-align: center;
+}
+.elem1{
+    color: red;
+    text-align: center;
+}
+.container{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    gap: 1450px;
+    align-items: center;
+}
+.box{
+    border-color: black;
+    background-color: rgba(255, 255, 255, 0.998);
+    border-radius: 10px;
+    border: solid;
+    font-size: 25px;
+    padding: 100px;
+    text-align: center;
+}
+.box:hover{
+    box-shadow: 6px 6px 25px rgba(0, 0, 0, 0.665);
+}
+.elem2{
+    text-align: center;
+}
