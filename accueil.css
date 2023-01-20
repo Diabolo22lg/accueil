@@ -9,10 +9,9 @@ body{
 .banniere {
     padding: 150px; 
     background-image: url("./Image/vague.JPG");
-    background-size:auto;
+    background-size:cover;
     margin: 0px;
-    text-align: center;
-    width: 1585px;
+    text-align:center;
     height: 500px;
 }
 .elem1{
